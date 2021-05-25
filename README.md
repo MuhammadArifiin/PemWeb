@@ -1,6 +1,6 @@
 Repositori ini berisi laporan dan file project untuk tugas masing-masing modul praktikum mata kuliah pemrograman web dan mobile I.
 
-#Modul 1(h1)
+#Modul 1 (h1)
 Modul ini berisi pembahasan mengenai pengenalan bahasa pemrograman PHP.
 
 #Modul 2(h1)
