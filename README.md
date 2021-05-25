@@ -1,7 +1,7 @@
 Repositori ini berisi laporan dan file project untuk tugas masing-masing modul praktikum mata kuliah pemrograman web dan mobile I.
 
-(h1) Modul 1 (h1)
-Modul ini berisi pembahasan mengenai pengenalan bahasa pemrograman PHP.
+#Modul 1(h1)
+##Modul ini berisi pembahasan mengenai pengenalan bahasa pemrograman PHP.(h2)
 
 #Modul 2(h1)
 Modul ini berisi pembahasan mengenai penerapan bahasa pemrograman PHP tentang form handling. Form handling di sini berfokus untuk melakukan handling pada form pengisian username dan password dengan beberapa persyaratan terkait username dan password sesuai dengan apa yang tertera di modul.
